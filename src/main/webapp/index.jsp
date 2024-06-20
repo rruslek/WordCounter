@@ -9,7 +9,7 @@
 <body>
 <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-        <h1 class="fs-4 font-weight-bold ">WordChecker</h1>
+        <h1 class="fs-4 font-weight-bold ">WordCounter</h1>
     </header>
 </div>
 <div class="container">
